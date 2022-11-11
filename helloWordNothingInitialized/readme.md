@@ -9,6 +9,12 @@
 // you have not demonstrated your own understanding. to demonstrate your understanding completely you will need
 // to design a program like this of your own. therefore do not merely copy the code first. 
 
+if you are reading this on github scroll up to the top of the screen were you see this file name: 
+
+conceptual instructions.pptx
+
+download this file and use it as a guide with these instructions to understand what is going on. This guide is highly recommended, but not needed to follow these instructions. It forms the basics for the lecture component. 
+
 
 // the best way to use these instructions is to read them carefully. 
 // understand what is happening, then understand how the commands are working together. 
