@@ -1,3 +1,5 @@
+DO NOT ATTEPT THE ASSIGNMENT ITSLEF. ONLY READ THESE INSTRUCTIONS. ONCE YOU HAVE FINISHED READING THESE INSTRUCTIONS THEN FILL OUT THE FORM AND LET ME KNOW THE DATE YOU COMPLETED THEM ON AND IF YOU ARE AVAILABLE THE SATURDAY OR SUNDAY AFTER YOU HAVE COMPLETED THE READING.
+
 
 // please read before you being any coding. it is important you read this file first.
 // read it carefully without attempting to code. focus on the concepts here and the steps that are being followd
